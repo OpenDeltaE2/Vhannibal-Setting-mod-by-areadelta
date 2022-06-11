@@ -1,5 +1,4 @@
-# Vhannibal-Setting-mod-by-areadelta for AREADELTASAT Image
+# Vhannibal-Setting-mod-by-areadelta 
+# for AREADELTASAT Image
 
 Thanks Vhannibal E2 Setting
-
-Thanks OpenPLi Team Developer ...
